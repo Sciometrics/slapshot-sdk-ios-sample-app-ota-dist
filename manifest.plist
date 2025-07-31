@@ -19,7 +19,7 @@
         <key>bundle-identifier</key>
         <string>com.sciometrics.Slapshot-Capture-SDK-Sample-App-v2</string>
         <key>bundle-version</key>
-        <string>2.1.9</string>
+        <string>2.1.9.0</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
